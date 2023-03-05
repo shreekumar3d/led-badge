@@ -1,3 +1,5 @@
+This hack is a WIP - decoding for the protocol is incomplete as of now (end of hackathon).  Please check back later.
+
 # LED Badge Programmer
 
 This project consists of a set of tools to program off-the-shelf LED badges based on a "HDSMART" controller. The badge I have is a low cost model with a 44x11 LED matrix, memory for 3 messages that can be shown in many ways, built-in rechargeable battery, a micro USB interface for programming the badge and charging, and comes with in-built Windows tools for programming.
